@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@builder.io/react": "^8.2.8",
     "autoprefixer": "10.4.17",
     "clsx": "^2.1.1",
     "next": "14.2.3",
