@@ -25,12 +25,11 @@ export default function HomePage() {
             Contáctanos
           </h2>
 
-          {/* Redirección local (ajusta puerto si usas 3000 o 3001) */}
           <input
-            type="hidden"
-            name="_redirect"
-            value="http://localhost:3001/gracias"
-          />
+  type="hidden"
+  name="_redirect"
+  value="procmind-landing.vercel.app /gracias" 
+/>
 
           {/* Protección anti-spam */}
           <input
