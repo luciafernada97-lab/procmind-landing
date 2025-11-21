@@ -25,11 +25,12 @@ export default function HomePage() {
             Contáctanos
           </h2>
 
+          {/* Redirección correcta */}
           <input
-  type="hidden"
-  name="_redirect"
-  value="procmind-landing.vercel.app /gracias" 
-/>
+            type="hidden"
+            name="_redirect"
+            value="https://procmind.mx/gracias"
+          />
 
           {/* Protección anti-spam */}
           <input
