@@ -16,7 +16,7 @@ export default function HomePage() {
       {/* CONTACTO – Formulario funcional */}
       <section id="contacto" className="container-pm py-12">
         <form
-          action="https://formspree.io/f/xblpjaod"
+          action="https://formspree.io/f/manledqn"
           method="POST"
           className="mx-auto max-w-xl space-y-4"
           aria-labelledby="contacto-title"
